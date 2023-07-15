@@ -75,7 +75,7 @@ export interface Server {
     mainServer?: boolean
 
     /**
-     * Whether or not the server can be autoconnected to. If false, the server will
+     * Whether the server can be autoconnected to. If false, the server will
      * not be autoconnected to even when the user has the autoconnect setting enabled.
      */
     autoconnect: boolean
@@ -85,4 +85,5 @@ export interface Server {
      */
     modules: Module[]
 
+    technic: string
 }

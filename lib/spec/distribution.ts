@@ -23,7 +23,7 @@ export interface Distribution {
     }
 
     /**
-     * A URL to a RSS feed. Used for loading news.
+     * A URL to an RSS feed. Used for loading news.
      */
     rss: string
 
