@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Enn3Developer/rgblauncher-distribution-types.git"
+    "url": "git+https://github.com/rgbcraft/rgblauncher-distribution-types.git"
   },
   "author": "Enn3Developer",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/Enn3Developer/rgblauncher-distribution-types/issues"
+    "url": "https://github.com/rgbcraft/rgblauncher-distribution-types/issues"
   },
-  "homepage": "https://github.com/Enn3Developer/rgblauncher-distribution-types#readme",
+  "homepage": "https://github.com/rgbcraft/rgblauncher-distribution-types#readme",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.55.0",
     "@typescript-eslint/parser": "^5.55.0",
