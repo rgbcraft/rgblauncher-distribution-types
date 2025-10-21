@@ -1,6 +1,6 @@
 {
   "name": "rgblauncher-distribution-types",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Type interfaces for RGB Launcher's distribution specification.",
   "main": "build/index.js",
   "types": "build/index.d.ts",
@@ -16,7 +16,7 @@
     "type": "git",
     "url": "git+https://github.com/rgbcraft/rgblauncher-distribution-types.git"
   },
-  "author": "Enn3Developer",
+  "author": "lego11",
   "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/rgbcraft/rgblauncher-distribution-types/issues"
